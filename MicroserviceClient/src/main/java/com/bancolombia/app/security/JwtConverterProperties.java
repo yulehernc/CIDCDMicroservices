@@ -10,7 +10,7 @@ import org.springframework.validation.annotation.Validated;
 public class JwtConverterProperties {
 	private String resourceId;
 	private String principalAttribute;
-	public String getReourceId() {
+	public String getResourceId() {
 		return resourceId;
 	}
 	public void setResourceId(String resourceId) {
