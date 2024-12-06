@@ -1,0 +1,60 @@
+
+package com.bancolombia.app.services;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.bancolombia.app.dao.IWorkerDAO;
+import com.bancolombia.app.entities.Worker;
+
+@Service
+public class ServiceImpl implements IService {
+	
+	@Autowired
+	private IWorkerDAO dao;
+
+	@Override
+	public boolean insert(Worker worker) {
+		if(dao.save(worker)!=null) {
+		   return true;
+		}
+		
+		return false;
+	}
+
+	@Override
+	public boolean deleteById(long id) {
+		if(dao.existsById(id)) {
+		    dao.deleteById(id);
+		    return true;
+			
+		}
+		
+		return false;
+	}
+
+	@Override
+	public boolean update(Worker worker) {
+	    if(dao.existsById(worker.getId())) {
+	    	dao.save(worker);
+	    	return true;
+	    }
+		
+		return false;
+	}
+
+	@Override
+	public Worker findById(long id) {
+		return dao.findById(id)
+				.orElseThrow();
+	}
+
+	@Override
+	public List<Worker> getAll() {
+		return (List<Worker>)dao.findAll();
+	}
+
+}
+

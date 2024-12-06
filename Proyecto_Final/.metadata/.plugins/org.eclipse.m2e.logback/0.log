@@ -1,0 +1,122 @@
+2024-12-05 23:54:59,054 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2024-12-05 23:55:48,297 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bancolombia:MicroserviceConfig:1.0.0 @ C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroserviceConfig\pom.xml.
+2024-12-05 23:55:49,311 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bancolombia:MicroserviceEureka:1.0.0 @ C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroserviceEureka\pom.xml.
+2024-12-05 23:55:50,836 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bancolombia:MicroserviceClient:1.0.0 @ C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroserviceWorker\pom.xml.
+2024-12-05 23:55:51,365 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bancolombia:MicroserviceItem:1.0.0 @ C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroservicioArticulo\pom.xml.
+2024-12-05 23:55:54,793 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MicroserviceConfig/src/main/java
+2024-12-05 23:55:54,797 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroserviceConfig/src/main/resources
+2024-12-05 23:55:54,825 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroserviceConfig/src/main/resources
+2024-12-05 23:55:54,835 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MicroserviceConfig/src/test/java
+2024-12-05 23:55:54,838 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroserviceConfig/src/test/resources
+2024-12-05 23:55:55,579 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MicroserviceEureka/src/main/java
+2024-12-05 23:55:55,580 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroserviceEureka/src/main/resources
+2024-12-05 23:55:55,582 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroserviceEureka/src/main/resources
+2024-12-05 23:55:55,582 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MicroserviceEureka/src/test/java
+2024-12-05 23:55:55,583 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroserviceEureka/src/test/resources
+2024-12-05 23:55:56,506 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MicroserviceWorker/src/main/java
+2024-12-05 23:55:56,507 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroserviceWorker/src/main/resources
+2024-12-05 23:55:56,509 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroserviceWorker/src/main/resources
+2024-12-05 23:55:56,509 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MicroserviceWorker/src/test/java
+2024-12-05 23:55:56,510 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroserviceWorker/src/test/resources
+2024-12-05 23:55:57,640 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MicroservicioArticulo/src/main/java
+2024-12-05 23:55:57,645 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroservicioArticulo/src/main/resources
+2024-12-05 23:55:57,646 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroservicioArticulo/src/main/resources
+2024-12-05 23:55:57,647 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MicroservicioArticulo/src/test/java
+2024-12-05 23:55:57,648 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroservicioArticulo/src/test/resources
+2024-12-05 23:55:58,340 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 4 project(s) in 15 sec
+2024-12-05 23:55:58,530 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-05 23:56:00,855 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bancolombia:MicroserviceConfig:1.0.0 @ C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroserviceConfig\pom.xml.
+2024-12-05 23:56:02,058 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bancolombia:MicroserviceEureka:1.0.0 @ C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroserviceEureka\pom.xml.
+2024-12-05 23:56:02,864 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bancolombia:MicroserviceClient:1.0.0 @ C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroserviceWorker\pom.xml.
+2024-12-05 23:56:03,299 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bancolombia:MicroserviceItem:1.0.0 @ C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroservicioArticulo\pom.xml.
+2024-12-05 23:56:05,510 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MicroserviceConfig/src/main/java
+2024-12-05 23:56:05,511 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroserviceConfig/src/main/resources
+2024-12-05 23:56:05,512 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroserviceConfig/src/main/resources
+2024-12-05 23:56:05,513 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MicroserviceConfig/src/test/java
+2024-12-05 23:56:05,514 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroserviceConfig/src/test/resources
+2024-12-05 23:56:06,023 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MicroserviceEureka/src/main/java
+2024-12-05 23:56:06,025 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroserviceEureka/src/main/resources
+2024-12-05 23:56:06,026 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroserviceEureka/src/main/resources
+2024-12-05 23:56:06,027 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MicroserviceEureka/src/test/java
+2024-12-05 23:56:06,028 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroserviceEureka/src/test/resources
+2024-12-05 23:56:06,683 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MicroserviceWorker/src/main/java
+2024-12-05 23:56:06,684 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroserviceWorker/src/main/resources
+2024-12-05 23:56:06,686 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroserviceWorker/src/main/resources
+2024-12-05 23:56:06,686 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MicroserviceWorker/src/test/java
+2024-12-05 23:56:06,688 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroserviceWorker/src/test/resources
+2024-12-05 23:56:07,275 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MicroservicioArticulo/src/main/java
+2024-12-05 23:56:07,276 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroservicioArticulo/src/main/resources
+2024-12-05 23:56:07,277 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroservicioArticulo/src/main/resources
+2024-12-05 23:56:07,280 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MicroservicioArticulo/src/test/java
+2024-12-05 23:56:07,282 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroservicioArticulo/src/test/resources
+2024-12-05 23:56:08,945 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 4 poms: local refresh takes 0.00 sec, refresh facades takes 6.00 sec, update config takes 2.00 sec 
+2024-12-05 23:56:10,112 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-05 23:56:10,139 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-05 23:56:10,149 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroserviceConfig\src\test\resources
+2024-12-05 23:56:11,053 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-05 23:56:11,072 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-05 23:56:11,079 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroserviceEureka\src\test\resources
+2024-12-05 23:56:11,632 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-05 23:56:11,659 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-05 23:56:11,667 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroserviceWorker\src\test\resources
+2024-12-05 23:56:12,078 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-05 23:56:12,100 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-05 23:56:12,110 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroservicioArticulo\src\test\resources
+2024-12-06 00:03:30,306 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-06 00:03:30,318 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-06 00:03:30,323 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroserviceWorker\src\test\resources
+2024-12-06 00:03:51,945 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-06 00:03:51,956 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-06 00:03:51,961 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroserviceWorker\src\test\resources
+2024-12-06 00:12:55,694 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-06 00:12:55,706 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-06 00:12:55,718 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroserviceWorker\src\test\resources
+2024-12-06 00:14:47,481 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-06 00:14:47,492 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-06 00:14:47,496 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroserviceWorker\src\test\resources
+2024-12-06 00:15:26,126 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-06 00:15:26,136 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-06 00:15:26,140 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroserviceWorker\src\test\resources
+2024-12-06 00:16:00,641 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-06 00:16:00,649 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-06 00:16:00,654 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroserviceWorker\src\test\resources
+2024-12-06 00:16:21,312 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-06 00:16:21,320 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-06 00:16:21,324 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroserviceWorker\src\test\resources
+2024-12-06 00:17:15,812 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-06 00:17:15,823 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-06 00:17:15,865 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroserviceWorker\src\test\resources
+2024-12-06 00:17:38,163 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-06 00:17:38,171 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-06 00:17:38,175 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroserviceWorker\src\test\resources
+2024-12-06 00:18:37,994 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-06 00:18:38,004 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-06 00:18:38,009 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroserviceWorker\src\test\resources
+2024-12-06 00:21:00,129 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-12-06 00:21:01,519 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bancolombia:MicroserviceClient:1.0.0 @ C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroserviceWorker\pom.xml.
+2024-12-06 00:21:02,985 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MicroserviceWorker/src/main/java
+2024-12-06 00:21:02,986 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroserviceWorker/src/main/resources
+2024-12-06 00:21:02,987 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroserviceWorker/src/main/resources
+2024-12-06 00:21:02,988 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MicroserviceWorker/src/test/java
+2024-12-06 00:21:02,989 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MicroserviceWorker/src/test/resources
+2024-12-06 00:21:03,571 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2024-12-06 00:21:03,898 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-06 00:21:03,900 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-06 00:21:03,907 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroserviceWorker\src\test\resources
+2024-12-06 00:22:40,123 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bancolombia:MicroserviceClient:1.0.0 @ C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroserviceWorker\pom.xml.
+2024-12-06 00:22:41,393 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-06 00:22:41,395 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-06 00:22:41,398 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroserviceWorker\src\test\resources
+2024-12-06 00:22:43,133 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-06 00:22:43,136 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-06 00:22:43,140 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroserviceWorker\src\test\resources
+2024-12-06 00:24:23,314 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bancolombia:MicroserviceItem:1.0.0 @ C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroservicioArticulo\pom.xml.
+2024-12-06 00:24:24,646 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-06 00:24:24,649 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-06 00:24:24,669 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroservicioArticulo\src\test\resources
+2024-12-06 00:24:26,020 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-06 00:24:26,042 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-06 00:24:26,048 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroservicioArticulo\src\test\resources
+2024-12-06 00:27:27,771 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-12-06 00:27:27,781 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-12-06 00:27:27,785 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Netec\Desktop\ProyectosCurso\Proyecto_Final\MicroserviceWorker\src\test\resources
