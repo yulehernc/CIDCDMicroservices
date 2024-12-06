@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy package &apos;com.bancolombia.app.datasource&apos; to &apos;MicroserviceWorker/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;MicroservicioArticulo&apos;&#x0D;&#x0A;- Destination element: &apos;MicroserviceWorker/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;MicroservicioArticulo/src/main/java/com.bancolombia.app.datasource&apos;" description="Copy package" destination="=MicroserviceWorker/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.bancolombia.app.datasource" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1733462160407" version="1.0"/>
-</session>
