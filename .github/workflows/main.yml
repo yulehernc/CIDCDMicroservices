@@ -37,8 +37,8 @@ jobs:
 
 
       # Construccion de imagenes
-      - name: Build image client
-        run: docker build -t ${{ secrets.DOCKER_USERNAME }}/mes:client .
+      - name: Build image worker
+        run: docker build -t ${{ secrets.DOCKER_USERNAME }}/mes:worker .
         working-directory: MicroserviceWorker
         
       - name: Build image config
