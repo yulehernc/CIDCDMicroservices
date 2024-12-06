@@ -50,7 +50,7 @@ jobs:
         working-directory: MicroserviceEureka
 
       - name: Build image articulo
-        run: docker build -t ${{ secrets.DOCKER_USERNAME }}/mes:item .
+        run: docker build -t ${{ secrets.DOCKER_USERNAME }}/mes:articulo .
         working-directory: MicroservicioArticulo
 
 
@@ -65,7 +65,7 @@ jobs:
         
       #Envio de imagenes a docker hub
       - name: Push Docker image to Docker Hub
-        run: |
+        run: 
           docker push ${{ secrets.DOCKER_USERNAME }}/mes:worker
           docker push ${{ secrets.DOCKER_USERNAME }}/mes:config
           docker push ${{ secrets.DOCKER_USERNAME }}/mes:eureka
