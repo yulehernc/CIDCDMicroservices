@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.bancolombia</groupId>
-	<artifactId>MicroserviceClient</artifactId>
+	<artifactId>MicroserviceWorker</artifactId>
 	<version>1.0.0</version>
-	<name>MicroserviceClient</name>
+	<name>MicroserviceWorker</name>
 	<description>my client microservice</description>
 	<url/>
 	<licenses>
