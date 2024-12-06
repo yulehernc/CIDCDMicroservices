@@ -23,11 +23,11 @@ jobs:
           java-version: '17'
           
       # Construccion de jars
-      - name: Build Micro Client
-        run: mvn -f MicroserviceClient/pom.xml clean install -DskipTests=true
+      - name: Build Micro Worker
+        run: mvn -f MicroserviceWorker/pom.xml clean install -DskipTests=true
       
-      - name: Build Micro Item
-        run: mvn -f MicroserviceItem/pom.xml clean install -DskipTests=true
+      - name: Build Micro Articulo
+        run: mvn -f MicroserviceArticulo/pom.xml clean install -DskipTests=true
 
       - name: Build Micro Config
         run: mvn -f MicroserviceConfig/pom.xml clean install -DskipTests=true
@@ -39,7 +39,7 @@ jobs:
       # Construccion de imagenes
       - name: Build image Client
         run: docker build -t ${{ secrets.DOCKER_USERNAME }}/mes:client .
-        working-directory: MicroserviceClient
+        working-directory: MicroserviceWorker
         
       - name: Build image config
         run: docker build -t ${{ secrets.DOCKER_USERNAME }}/mes:config .
@@ -49,9 +49,9 @@ jobs:
         run: docker build -t ${{ secrets.DOCKER_USERNAME }}/mes:eureka .
         working-directory: MicroserviceEureka
 
-      - name: Build image item
+      - name: Build image articulo
         run: docker build -t ${{ secrets.DOCKER_USERNAME }}/mes:item .
-        working-directory: MicroserviceItem
+        working-directory: MicroserviceArticulo
 
 
       #Login docker
@@ -66,7 +66,7 @@ jobs:
       #Envio de imagenes a docker hub
       - name: Push Docker image to Docker Hub
         run: |
-          docker push ${{ secrets.DOCKER_USERNAME }}/mes:client
+          docker push ${{ secrets.DOCKER_USERNAME }}/mes:worker
           docker push ${{ secrets.DOCKER_USERNAME }}/mes:config
           docker push ${{ secrets.DOCKER_USERNAME }}/mes:eureka
-          docker push ${{ secrets.DOCKER_USERNAME }}/mes:item
+          docker push ${{ secrets.DOCKER_USERNAME }}/mes:articulo
