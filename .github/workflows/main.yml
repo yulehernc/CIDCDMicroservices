@@ -27,7 +27,7 @@ jobs:
         run: mvn -f MicroserviceWorker/pom.xml clean install -DskipTests=true
       
       - name: Build Micro Articulo
-        run: mvn -f MicroserviceArticulo/pom.xml clean install -DskipTests=true
+        run: mvn -f MicroservicioArticulo/pom.xml clean install -DskipTests=true
 
       - name: Build Micro Config
         run: mvn -f MicroserviceConfig/pom.xml clean install -DskipTests=true
@@ -51,7 +51,7 @@ jobs:
 
       - name: Build image articulo
         run: docker build -t ${{ secrets.DOCKER_USERNAME }}/mes:item .
-        working-directory: MicroserviceArticulo
+        working-directory: MicroservicioArticulo
 
 
       #Login docker
